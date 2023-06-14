@@ -5,6 +5,11 @@
 :scroll: I did several internships : 
 - one as a laboratory assistant at a health economics institute (ISPED),
 - another as a statistician for the French Ministry of Higher Education and Research.  
+
+:books: I know :
+- statistics (descriptive statistics, multidimensional exploratory statistics (CA, PCA, MCA)) 
+- econometrics & causal inference
+- R, Shiny, Stata
   
 🌱 I’m currently learning Python and have a keen interest in game theory.  
   
