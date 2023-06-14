@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Axel 👋
 
 :mortar_board: I’m currently studying economics and public policy analysis at University of Bordeaux.  
 
