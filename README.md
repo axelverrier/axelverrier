@@ -11,7 +11,7 @@
 - econometrics & causal inference
 - R, Shiny, Stata
 
-📦 r_libraries_i_know <- c("tidyverse", "shiny", "bslib", "ggplot2", "stringr", "haven")
+📦 r_libraries_i_know <- c("tidyverse", "shiny", "bslib", "ggplot2", "haven", "FactoMineR")
   
 🌱 I’m currently learning Python and have a keen interest in game theory.  
   
