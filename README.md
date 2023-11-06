@@ -3,7 +3,7 @@
 :mortar_board: I’m currently studying economics and public policy analysis at University of Bordeaux.  
 
 :scroll: I did several internships : 
-- one as a laboratory assistant at a health economics institute (ISPED),
+- one as a research assistant at a health economics institute (ISPED),
 - another as a statistician for the French Ministry of Higher Education and Research.  
 
 :books: I know :
