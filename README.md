@@ -1,5 +1,4 @@
 ### Hi there, I'm Axel 👋
-
-🌱 I’m currently studying economics and public policy analysis at University of Bordeaux.  
-
+🌱 Currently learning about environmental economics at the Paris School of Economics (Paris, France).  
 💬 Ask me about anything  
+
